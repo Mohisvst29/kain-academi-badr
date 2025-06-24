@@ -1,0 +1,118 @@
+{
+  "name": "أكاديمية كيان - أفضل سنتر تعليمي في مدينة بدر",
+  "short_name": "أكاديمية كيان",
+  "description": "أفضل سنتر تعليمي في مدينة بدر - نقدم تعليماً متميزاً لجميع المراحل الدراسية",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["education", "learning"],
+  "icons": [
+    {
+      "src": "/logo kian.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo kian.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo kian.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo kian.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo kian.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo kian.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "تسجيل طالب جديد",
+      "short_name": "تسجيل",
+      "description": "تسجيل طالب جديد في الأكاديمية",
+      "url": "/#student-registration",
+      "icons": [
+        {
+          "src": "/logo kian.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "حجز موعد",
+      "short_name": "موعد",
+      "description": "حجز موعد في الأكاديمية",
+      "url": "/#appointment-booking",
+      "icons": [
+        {
+          "src": "/logo kian.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "المدرسين",
+      "short_name": "المدرسين",
+      "description": "تعرف على فريق المدرسين",
+      "url": "/teachers",
+      "icons": [
+        {
+          "src": "/logo kian.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "اتصل بنا",
+      "short_name": "اتصال",
+      "description": "تواصل مع الأكاديمية",
+      "url": "/contact",
+      "icons": [
+        {
+          "src": "/logo kian.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/logo kian.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "الصفحة الرئيسية لأكاديمية كيان"
+    },
+    {
+      "src": "/logo kian.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "تطبيق أكاديمية كيان على الموبايل"
+    }
+  ]
+}
